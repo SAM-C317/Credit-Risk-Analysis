@@ -170,6 +170,11 @@ Models were evaluated using:
 - ROC Curves
 
 ---
+## 👨‍💻 Author
+
+**Sami Sevdi**  
+Industrial Engineering Student  
+Interested in Data Science, Machine Learning, and Predictive Analytics
 
 ## Project Structure
 
@@ -182,9 +187,3 @@ Credit-Risk-Analysis/
 ├── models/
 ├── README.md
 └── requirements.txt
-
-## 👨‍💻 Author
-
-**Sami Sevdi**  
-Industrial Engineering Student  
-Interested in Data Science, Machine Learning, and Predictive Analytics

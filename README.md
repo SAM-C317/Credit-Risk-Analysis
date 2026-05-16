@@ -171,10 +171,10 @@ Models were evaluated using:
 
 ---
 ## 👨‍💻 Author
-
+ 
 **Sami Sevdi**  
-Industrial Engineering Student  
-Interested in Data Science, Machine Learning, and Predictive Analytics
+Industrial Engineering Student | Data Science Specialist
+
 
 ## Project Structure
 
